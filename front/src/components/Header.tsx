@@ -39,6 +39,11 @@ const Header = () => {
           Sign In
         </Link>
       )}
+      {currentPath === pagesPath.$url().pathname && (
+        <Link className={'text-matrix hover:text-purple'} href={pagesPath.auth.$url().pathname}>
+          Sign In
+        </Link>
+      )}
     </div>
   );
 

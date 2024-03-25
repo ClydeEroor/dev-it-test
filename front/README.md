@@ -31,6 +31,7 @@ npm run dev
         - :file_folder: types
         - :file_folder: utils --> page path
 
+
 - Libraries Used for Development
     - [redux](https://redux.js.org/)
     - [redux-toolkit](https://redux-toolkit.js.org/rtk-query/overview)
@@ -59,4 +60,19 @@ This application is designed with simplicity in mind and includes the following 
   create an article yourself, for example in English, this is due to the fact that the resource from which to parse
   articles uses data in Ukrainian.
 
-![search](https://ibb.co/g35gyXP)
+--
+<a href="https://ibb.co/g35gyXP"><img src="https://i.ibb.co/zryfsL7/search-Details.png" alt="search-Details" border="0" /></a>
+
+--
+<a href="https://ibb.co/wWf650y"><img src="https://i.ibb.co/VSsBfjV/admin-Pannel.png" alt="admin-Pannel" border="0"></a>
+
+- When you click on the News, you follow the link to its source.
+
+## Author
+
+[ClydeEroor](https://github.com/ClydeEroor)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
