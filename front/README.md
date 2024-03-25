@@ -35,6 +35,7 @@ npm run dev
 - Libraries Used for Development
     - [redux](https://redux.js.org/)
     - [redux-toolkit](https://redux-toolkit.js.org/rtk-query/overview)
+    - [rtk-query](https://redux-toolkit.js.org/rtk-query/overview)
     - [redux-persist](https://github.com/rt2zz/redux-persist#readme)
     - [formik](https://formik.org/)
     - [yup](https://github.com/jquense/yup)
