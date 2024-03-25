@@ -125,8 +125,6 @@ export class AuthController {
     @Res() res: Response,
     @UserAgent() agent: string,
   ) {
-    console.log(agent);
-    console.log(dto);
     if (!dto) {
       throw new UnauthorizedException();
     }
